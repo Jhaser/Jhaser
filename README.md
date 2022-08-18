@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhaserBeans
-- 👀 I’m interested in front-end web dev, mobile app dev, learning new methods and ways to be efficient! 
-- 🌱 I’m currently honing my skills in basic programming- HTML, CSS, JavaScript, C#, AGILE, SCRUM.  
+- 👀 I’m interested in web and mobile app development, cloud services, and cybersecurity. 
+- 🌱 I’ve created projects using HTML, CSS, JavaScript, C# (ASP.NET), Python for ML and Java (Springboot).  
 - 💞️ Will be updating my projects soon! 
 
 <!---
