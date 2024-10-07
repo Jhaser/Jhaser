@@ -4,8 +4,3 @@
       ✨[FE] HTML, CSS, JavaScript, React
       ✨[BE] C# (ASP.NET), Python, Java (Springboot), DJango
       ✨[OTH] shell, batch scripting
-
-<!---
-Jhaser/Jhaser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
